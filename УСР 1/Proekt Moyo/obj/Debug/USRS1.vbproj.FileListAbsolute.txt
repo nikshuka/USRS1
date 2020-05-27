@@ -1,0 +1,12 @@
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\bin\Debug\Proekt Moyo.exe.config
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\bin\Debug\Proekt Moyo.exe
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\bin\Debug\Proekt Moyo.pdb
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\bin\Debug\Proekt Moyo.xml
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\USRS1.vbprojAssemblyReference.cache
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\Proekt_Moyo.Form1.resources
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\Proekt_Moyo.Resources.resources
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\USRS1.vbproj.GenerateResource.cache
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\USRS1.vbproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\Proekt Moyo.exe
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\Proekt Moyo.xml
+C:\Users\Professional\Desktop\УСР 1\Proekt Moyo\obj\Debug\Proekt Moyo.pdb
